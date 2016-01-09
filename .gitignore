@@ -1,0 +1,53 @@
+*~
+build
+debug
+release
+src/*.exe
+src/lecoin
+src/lecoind
+src/test_lecoin
+src/build.h
+lecoin.files
+lecoin.creator
+lecoin.config
+lecoin.creator.user
+lecoin.includes
+#lecoin.*
+lecoin-qt
+lecoin-qt.pro.*
+lecoin-qt.pro.user
+VERSION.json
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.a
+*.zip
+*.pkg
+*.dmg
+*.prof
+src/quazip/libquazip.a
+src/quazip/.qmake.stash
+*.patch
+.lecoin
+.qmake.stash
+LeCoin-Qt.app
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+*.Release
+*.Debug
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+src/quazip/Makefile
+src/quazip/release
+src/quazip/debug
+src/quazip/.moc
+#mac specific
+.DS_Store
+
+!src/leveldb/Makefile

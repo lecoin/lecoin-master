@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=lecoin
+Comment=lecoin P2P Cryptocurrency
+Comment[fr]=lecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=lecoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/lecoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/lecoin;
+Categories=Office;

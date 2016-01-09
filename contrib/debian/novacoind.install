@@ -1,0 +1,2 @@
+debian/bin/lecoind usr/bin
+src/lecoind usr/lib/lecoin
